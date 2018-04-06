@@ -97,18 +97,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "DISRUPT"
+  avatar           : "/assets/images/disrupt-logo-D-1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "EU Project"
+  location         : ""
+  email            : "info@disrupt-project.eu"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "http://www.disrupt-project.eu" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           :
   gitlab           :
@@ -122,7 +122,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "DISRUPT_EU"
   vine             :
   weibo            :
   xing             :
