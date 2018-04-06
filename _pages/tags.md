@@ -1,5 +1,5 @@
 ---
-title: "Tag View"
+title: "Explore Tags"
 permalink: /tags/
 layout: tags
 author_profile: false

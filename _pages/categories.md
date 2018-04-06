@@ -1,5 +1,5 @@
 ---
-title: "Categories view"
+title: "Explore Categories"
 layout: categories
 permalink: /categories/
 header:
