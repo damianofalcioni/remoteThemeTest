@@ -13,10 +13,10 @@ main:
 
 taxonomy:
   - title: "1 - Supplier Processes"
-    href: "#C1"
+    url: "#C1"
     children:
       - title : "1.0 - Disaster"
-        href: "#C1-0"
+        url: "#C1-0"
       - title : "1.1 - Machine"
         url: /categories/#C1-1
       - title : "1.2 - Man"
