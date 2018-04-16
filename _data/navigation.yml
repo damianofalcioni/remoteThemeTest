@@ -15,42 +15,42 @@ taxonomy:
   - title: "1 - Supplier Processes"
     children:
       - title : "1.0 - Disaster"
-        url: /categories/supplier_processes/disaster
+        url: /categories/#supplier_processes-disaster
       - title : "1.1 - Machine"
-        url: /categories/supplier_processes/machine
+        url: /categories/#supplier_processes-machine
       - title : "1.2 - Man"
-        url: /categories/supplier_processes/man
+        url: /categories/#supplier_processes-man
       - title : "1.3 - Quality of Materials"
-        url: /categories/supplier_processes/quality_materials
+        url: /categories/#supplier_processes-quality_materials
       - title : "1.4 - Quality Inspection System - Quality Measure"
-        url: /categories/supplier_processes/quality_measures
+        url: /categories/#supplier_processes-quality_measures
       - title : "1.5 - Others"
-        url: /categories/supplier_processes/others
+        url: /categories/#supplier_processes-others
   - title: "2 - Transportation"
     children:
       - title : "2.0 - Disaster - Interruption of Transport (Storage/Delay)"
-        url: /categories/transportation/disaster
+        url: /categories/#transportation-disaster
       - title : "2.1 - Machine - Available Transporters/Failure in Trucks/Incidents"
-        url: /categories/transportation/machine
+        url: /categories/#transportation-machine
       - title : "2.2 - Man - Available Drivers"
-        url: /categories/transportation/man
+        url: /categories/#transportation-man
       - title : "2.3 - Material - Quantity (getting lost)"
-        url: /categories/transportation/quality_materials
+        url: /categories/#transportation-quality_materials
       - title : "2.4 - Material - Quality Inspecition System/Quality Measure"
-        url: /categories/transportation/quality_measures
+        url: /categories/#transportation-quality_measures
       - title : "2.5 - Others"
-        url: /categories/transportation/others
+        url: /categories/#transportation-others
   - title: "3 - Internal Processes"
     children:
       - title : "3.0 - Disaster"
-        url: /categories/internal_processes/disaster
+        url: /categories/#internal_processes-disaster
       - title : "3.1 - Machine - Condition Monitoring"
-        url: /categories/internal_processes/machine
+        url: /categories/#internal_processes-machine
       - title : "3.2 - Man - Operator"
-        url: /categories/internal_processes/man
+        url: /categories/#internal_processes-man
       - title : "3.3 - Material"
-        url: /categories/internal_processes/quality_materials
+        url: /categories/#internal_processes-quality_materials
       - title : "3.4 - Quality Inspecition System - Quality Measure"
-        url: /categories/internal_processes/quality_measures
+        url: /categories/#internal_processes-quality_measures
       - title : "3.5 - Others"
-        url: /categories/internal_processes/others
+        url: /categories/#internal_processes-others
